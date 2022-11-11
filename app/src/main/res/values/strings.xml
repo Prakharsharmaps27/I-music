@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">imusic</string>
+    <string name="play">play</string>
+    <string name="backward">backward</string>
+    <string name="forward">forward</string>
+    <string name="background_image">background image</string>
+    <string name="settings">Settings</string>
+</resources>
